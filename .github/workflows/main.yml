@@ -29,4 +29,4 @@ jobs:
       # Step 4: Run the bot
       - name: Start Bot
         run: |
-          node start.js
+          npm start
